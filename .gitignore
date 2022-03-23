@@ -32,3 +32,6 @@ bin/
 
 test.txt
 
+cmake-build-*
+.idea
+
